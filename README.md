@@ -23,5 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/abdelwahab-emad/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/abdelwahab-emad/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/abdelwahab-emad/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/abdelwahab-emad/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
