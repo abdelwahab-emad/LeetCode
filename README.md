@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abdelwahab-emad/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/abdelwahab-emad/LeetCode/tree/master/0072-edit-distance) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/abdelwahab-emad/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/abdelwahab-emad/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Two Pointers
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/abdelwahab-emad/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0198-house-robber](https://github.com/abdelwahab-emad/LeetCode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/abdelwahab-emad/LeetCode/tree/master/0322-coin-change) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/abdelwahab-emad/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 ## Divide and Conquer
 |  |
 | ------- |
