@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/abdelwahab-emad/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2906-construct-product-matrix](https://github.com/abdelwahab-emad/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/abdelwahab-emad/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/abdelwahab-emad/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/abdelwahab-emad/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3640-trionic-array-ii](https://github.com/abdelwahab-emad/LeetCode/tree/master/3640-trionic-array-ii) |
 ## Matrix
@@ -130,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/abdelwahab-emad/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/abdelwahab-emad/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 <!---LeetCode Topics End-->
