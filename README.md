@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/abdelwahab-emad/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2906-construct-product-matrix](https://github.com/abdelwahab-emad/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/abdelwahab-emad/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/abdelwahab-emad/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/abdelwahab-emad/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/abdelwahab-emad/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/abdelwahab-emad/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/abdelwahab-emad/LeetCode/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/abdelwahab-emad/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2906-construct-product-matrix](https://github.com/abdelwahab-emad/LeetCode/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/abdelwahab-emad/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3546-equal-sum-grid-partition-i](https://github.com/abdelwahab-emad/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/abdelwahab-emad/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Prefix Sum
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/abdelwahab-emad/LeetCode/tree/master/0062-unique-paths) |
 | [1390-four-divisors](https://github.com/abdelwahab-emad/LeetCode/tree/master/1390-four-divisors) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/abdelwahab-emad/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Combinatorics
 |  |
 | ------- |
@@ -153,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/abdelwahab-emad/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+## Simulation
+|  |
+| ------- |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/abdelwahab-emad/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 <!---LeetCode Topics End-->
