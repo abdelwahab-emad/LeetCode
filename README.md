@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/abdelwahab-emad/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/abdelwahab-emad/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/abdelwahab-emad/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/abdelwahab-emad/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Two Pointers
 |  |
 | ------- |
