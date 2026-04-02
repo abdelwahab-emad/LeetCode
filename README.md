@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/abdelwahab-emad/LeetCode/tree/master/0198-house-robber) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/abdelwahab-emad/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/abdelwahab-emad/LeetCode/tree/master/0322-coin-change) |
+| [0636-exclusive-time-of-functions](https://github.com/abdelwahab-emad/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0983-minimum-cost-for-tickets](https://github.com/abdelwahab-emad/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [1390-four-divisors](https://github.com/abdelwahab-emad/LeetCode/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/abdelwahab-emad/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/abdelwahab-emad/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0636-exclusive-time-of-functions](https://github.com/abdelwahab-emad/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/abdelwahab-emad/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Monotonic Stack
 |  |
