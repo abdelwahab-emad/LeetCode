@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-equal-sum-grid-partition-ii](https://github.com/abdelwahab-emad/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3640-trionic-array-ii](https://github.com/abdelwahab-emad/LeetCode/tree/master/3640-trionic-array-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/abdelwahab-emad/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/abdelwahab-emad/LeetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/abdelwahab-emad/LeetCode/tree/master/0053-maximum-subarray) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/abdelwahab-emad/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/abdelwahab-emad/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/abdelwahab-emad/LeetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Math
 |  |
 | ------- |
