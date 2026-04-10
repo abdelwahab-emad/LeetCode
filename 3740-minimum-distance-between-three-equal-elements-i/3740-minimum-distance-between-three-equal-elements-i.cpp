@@ -7,8 +7,6 @@ public:
         for (int i = n - 2; i >= 0; i--) {
             nxt[i] = lst[nums[i]];
             lst[nums[i]] = i;
-        }
-        for (int i = 0; i < n - 2; i++) {
             int j = nxt[i], k = -1;
             if (j < n) {
                 k = nxt[j];
