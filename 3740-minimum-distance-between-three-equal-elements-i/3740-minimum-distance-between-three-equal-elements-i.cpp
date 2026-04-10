@@ -8,8 +8,6 @@ public:
             nxt[i] = lst[nums[i]];
             lst[nums[i]] = i;
         }
-        for (int i = 0; i < n; i++)
-            cout << nxt[i] << " ";
         for (int i = 0; i < n - 2; i++) {
             int j = nxt[i], k = -1;
             if (j < n) {
