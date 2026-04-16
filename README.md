@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/abdelwahab-emad/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/abdelwahab-emad/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/abdelwahab-emad/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3488-closest-equal-element-queries](https://github.com/abdelwahab-emad/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3546-equal-sum-grid-partition-i](https://github.com/abdelwahab-emad/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/abdelwahab-emad/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3640-trionic-array-ii](https://github.com/abdelwahab-emad/LeetCode/tree/master/3640-trionic-array-ii) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/abdelwahab-emad/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0874-walking-robot-simulation](https://github.com/abdelwahab-emad/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/abdelwahab-emad/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3488-closest-equal-element-queries](https://github.com/abdelwahab-emad/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/abdelwahab-emad/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/abdelwahab-emad/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/abdelwahab-emad/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/abdelwahab-emad/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [3488-closest-equal-element-queries](https://github.com/abdelwahab-emad/LeetCode/tree/master/3488-closest-equal-element-queries) |
 ## Binary Indexed Tree
 |  |
 | ------- |
