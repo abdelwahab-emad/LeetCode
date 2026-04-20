@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/abdelwahab-emad/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [1390-four-divisors](https://github.com/abdelwahab-emad/LeetCode/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/abdelwahab-emad/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/abdelwahab-emad/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/abdelwahab-emad/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/abdelwahab-emad/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/abdelwahab-emad/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/abdelwahab-emad/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2463-minimum-total-distance-traveled](https://github.com/abdelwahab-emad/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/abdelwahab-emad/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Bit Manipulation
