@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/abdelwahab-emad/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/abdelwahab-emad/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/abdelwahab-emad/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/abdelwahab-emad/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/abdelwahab-emad/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3546-equal-sum-grid-partition-i](https://github.com/abdelwahab-emad/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/abdelwahab-emad/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/abdelwahab-emad/LeetCode/tree/master/1390-four-divisors) |
 | [2485-find-the-pivot-integer](https://github.com/abdelwahab-emad/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/abdelwahab-emad/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/abdelwahab-emad/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/abdelwahab-emad/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/abdelwahab-emad/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Combinatorics
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/abdelwahab-emad/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2463-minimum-total-distance-traveled](https://github.com/abdelwahab-emad/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/abdelwahab-emad/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/abdelwahab-emad/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/abdelwahab-emad/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/abdelwahab-emad/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/abdelwahab-emad/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/abdelwahab-emad/LeetCode/tree/master/3488-closest-equal-element-queries) |
 ## Binary Indexed Tree
 |  |
@@ -260,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2833-furthest-point-from-origin](https://github.com/abdelwahab-emad/LeetCode/tree/master/2833-furthest-point-from-origin) |
+## Geometry
+|  |
+| ------- |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/abdelwahab-emad/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 <!---LeetCode Topics End-->
