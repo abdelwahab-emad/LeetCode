@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/abdelwahab-emad/LeetCode/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/abdelwahab-emad/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/abdelwahab-emad/LeetCode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/abdelwahab-emad/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abdelwahab-emad/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/abdelwahab-emad/LeetCode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/abdelwahab-emad/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abdelwahab-emad/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/abdelwahab-emad/LeetCode/tree/master/0085-maximal-rectangle) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/abdelwahab-emad/LeetCode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/abdelwahab-emad/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/abdelwahab-emad/LeetCode/tree/master/0062-unique-paths) |
 | [0396-rotate-function](https://github.com/abdelwahab-emad/LeetCode/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/abdelwahab-emad/LeetCode/tree/master/0788-rotated-digits) |
