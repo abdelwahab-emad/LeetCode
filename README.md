@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/abdelwahab-emad/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/abdelwahab-emad/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/abdelwahab-emad/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/abdelwahab-emad/LeetCode/tree/master/1861-rotating-the-box) |
 | [1895-largest-magic-square](https://github.com/abdelwahab-emad/LeetCode/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/abdelwahab-emad/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/abdelwahab-emad/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/abdelwahab-emad/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/abdelwahab-emad/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/abdelwahab-emad/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1861-rotating-the-box](https://github.com/abdelwahab-emad/LeetCode/tree/master/1861-rotating-the-box) |
 | [1895-largest-magic-square](https://github.com/abdelwahab-emad/LeetCode/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/abdelwahab-emad/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/abdelwahab-emad/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/abdelwahab-emad/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0061-rotate-list](https://github.com/abdelwahab-emad/LeetCode/tree/master/0061-rotate-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/abdelwahab-emad/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/abdelwahab-emad/LeetCode/tree/master/1861-rotating-the-box) |
 ## Dynamic Programming
 |  |
 | ------- |
