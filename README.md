@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/abdelwahab-emad/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0045-jump-game-ii](https://github.com/abdelwahab-emad/LeetCode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/abdelwahab-emad/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/abdelwahab-emad/LeetCode/tree/master/0053-maximum-subarray) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abdelwahab-emad/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/abdelwahab-emad/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/abdelwahab-emad/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0072-edit-distance](https://github.com/abdelwahab-emad/LeetCode/tree/master/0072-edit-distance) |
 | [0657-robot-return-to-origin](https://github.com/abdelwahab-emad/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/abdelwahab-emad/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/abdelwahab-emad/LeetCode/tree/master/0014-longest-common-prefix) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/abdelwahab-emad/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Counting
 |  |
