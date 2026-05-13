@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/abdelwahab-emad/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/abdelwahab-emad/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/abdelwahab-emad/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/abdelwahab-emad/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/abdelwahab-emad/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/abdelwahab-emad/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/abdelwahab-emad/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/abdelwahab-emad/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1895-largest-magic-square](https://github.com/abdelwahab-emad/LeetCode/tree/master/1895-largest-magic-square) |
 | [2485-find-the-pivot-integer](https://github.com/abdelwahab-emad/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [2615-sum-of-distances](https://github.com/abdelwahab-emad/LeetCode/tree/master/2615-sum-of-distances) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abdelwahab-emad/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0874-walking-robot-simulation](https://github.com/abdelwahab-emad/LeetCode/tree/master/0874-walking-robot-simulation) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/abdelwahab-emad/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2615-sum-of-distances](https://github.com/abdelwahab-emad/LeetCode/tree/master/2615-sum-of-distances) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/abdelwahab-emad/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3488-closest-equal-element-queries](https://github.com/abdelwahab-emad/LeetCode/tree/master/3488-closest-equal-element-queries) |
