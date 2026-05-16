@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abdelwahab-emad/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/abdelwahab-emad/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abdelwahab-emad/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/abdelwahab-emad/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0198-house-robber](https://github.com/abdelwahab-emad/LeetCode/tree/master/0198-house-robber) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/abdelwahab-emad/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/abdelwahab-emad/LeetCode/tree/master/0322-coin-change) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abdelwahab-emad/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/abdelwahab-emad/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/abdelwahab-emad/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/abdelwahab-emad/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/abdelwahab-emad/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
