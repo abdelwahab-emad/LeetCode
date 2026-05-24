@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/abdelwahab-emad/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0983-minimum-cost-for-tickets](https://github.com/abdelwahab-emad/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [1306-jump-game-iii](https://github.com/abdelwahab-emad/LeetCode/tree/master/1306-jump-game-iii) |
+| [1340-jump-game-v](https://github.com/abdelwahab-emad/LeetCode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/abdelwahab-emad/LeetCode/tree/master/1345-jump-game-iv) |
 | [1390-four-divisors](https://github.com/abdelwahab-emad/LeetCode/tree/master/1390-four-divisors) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/abdelwahab-emad/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/abdelwahab-emad/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [1143-longest-common-subsequence](https://github.com/abdelwahab-emad/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/abdelwahab-emad/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1340-jump-game-v](https://github.com/abdelwahab-emad/LeetCode/tree/master/1340-jump-game-v) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/abdelwahab-emad/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/abdelwahab-emad/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/abdelwahab-emad/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1340-jump-game-v](https://github.com/abdelwahab-emad/LeetCode/tree/master/1340-jump-game-v) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/abdelwahab-emad/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/abdelwahab-emad/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/abdelwahab-emad/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
