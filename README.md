@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/abdelwahab-emad/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1871-jump-game-vii](https://github.com/abdelwahab-emad/LeetCode/tree/master/1871-jump-game-vii) |
 | [1895-largest-magic-square](https://github.com/abdelwahab-emad/LeetCode/tree/master/1895-largest-magic-square) |
 | [2485-find-the-pivot-integer](https://github.com/abdelwahab-emad/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [2615-sum-of-distances](https://github.com/abdelwahab-emad/LeetCode/tree/master/2615-sum-of-distances) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/abdelwahab-emad/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/abdelwahab-emad/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/abdelwahab-emad/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1871-jump-game-vii](https://github.com/abdelwahab-emad/LeetCode/tree/master/1871-jump-game-vii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/abdelwahab-emad/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/abdelwahab-emad/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/abdelwahab-emad/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/abdelwahab-emad/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/abdelwahab-emad/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/abdelwahab-emad/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1871-jump-game-vii](https://github.com/abdelwahab-emad/LeetCode/tree/master/1871-jump-game-vii) |
 | [2463-minimum-total-distance-traveled](https://github.com/abdelwahab-emad/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/abdelwahab-emad/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3225-maximum-score-from-grid-operations](https://github.com/abdelwahab-emad/LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abdelwahab-emad/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1871-jump-game-vii](https://github.com/abdelwahab-emad/LeetCode/tree/master/1871-jump-game-vii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/abdelwahab-emad/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Heap (Priority Queue)
 |  |
