@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/abdelwahab-emad/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/abdelwahab-emad/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0072-edit-distance](https://github.com/abdelwahab-emad/LeetCode/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/abdelwahab-emad/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0657-robot-return-to-origin](https://github.com/abdelwahab-emad/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/abdelwahab-emad/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0796-rotate-string](https://github.com/abdelwahab-emad/LeetCode/tree/master/0796-rotate-string) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/abdelwahab-emad/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/abdelwahab-emad/LeetCode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/abdelwahab-emad/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/abdelwahab-emad/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abdelwahab-emad/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/abdelwahab-emad/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0198-house-robber](https://github.com/abdelwahab-emad/LeetCode/tree/master/0198-house-robber) |
