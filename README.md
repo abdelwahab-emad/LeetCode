@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/abdelwahab-emad/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/abdelwahab-emad/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/abdelwahab-emad/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/abdelwahab-emad/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/abdelwahab-emad/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/abdelwahab-emad/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/abdelwahab-emad/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/abdelwahab-emad/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/abdelwahab-emad/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/abdelwahab-emad/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/abdelwahab-emad/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/abdelwahab-emad/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2463-minimum-total-distance-traveled](https://github.com/abdelwahab-emad/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2784-check-if-array-is-good](https://github.com/abdelwahab-emad/LeetCode/tree/master/2784-check-if-array-is-good) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/abdelwahab-emad/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/abdelwahab-emad/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/abdelwahab-emad/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/abdelwahab-emad/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/abdelwahab-emad/LeetCode/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abdelwahab-emad/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/abdelwahab-emad/LeetCode/tree/master/3161-block-placement-queries) |
