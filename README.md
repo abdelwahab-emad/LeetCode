@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3660-jump-game-ix](https://github.com/abdelwahab-emad/LeetCode/tree/master/3660-jump-game-ix) |
 | [3689-maximum-total-subarray-value-i](https://github.com/abdelwahab-emad/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/abdelwahab-emad/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3693-climbing-stairs-ii](https://github.com/abdelwahab-emad/LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3731-find-missing-elements](https://github.com/abdelwahab-emad/LeetCode/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/abdelwahab-emad/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/abdelwahab-emad/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/abdelwahab-emad/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3640-trionic-array-ii](https://github.com/abdelwahab-emad/LeetCode/tree/master/3640-trionic-array-ii) |
 | [3660-jump-game-ix](https://github.com/abdelwahab-emad/LeetCode/tree/master/3660-jump-game-ix) |
+| [3693-climbing-stairs-ii](https://github.com/abdelwahab-emad/LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/abdelwahab-emad/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/abdelwahab-emad/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/abdelwahab-emad/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
