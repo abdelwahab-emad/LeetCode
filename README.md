@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/abdelwahab-emad/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/abdelwahab-emad/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/abdelwahab-emad/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/abdelwahab-emad/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/abdelwahab-emad/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/abdelwahab-emad/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/abdelwahab-emad/LeetCode/tree/master/3488-closest-equal-element-queries) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/abdelwahab-emad/LeetCode/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/abdelwahab-emad/LeetCode/tree/master/2906-construct-product-matrix) |
 | [3225-maximum-score-from-grid-operations](https://github.com/abdelwahab-emad/LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
+| [3364-minimum-positive-sum-subarray](https://github.com/abdelwahab-emad/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3546-equal-sum-grid-partition-i](https://github.com/abdelwahab-emad/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/abdelwahab-emad/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3903-smallest-stable-index-i](https://github.com/abdelwahab-emad/LeetCode/tree/master/3903-smallest-stable-index-i) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/abdelwahab-emad/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1871-jump-game-vii](https://github.com/abdelwahab-emad/LeetCode/tree/master/1871-jump-game-vii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/abdelwahab-emad/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/abdelwahab-emad/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
