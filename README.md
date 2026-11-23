@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/abdelwahab-emad/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/abdelwahab-emad/LeetCode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/abdelwahab-emad/LeetCode/tree/master/1345-jump-game-iv) |
+| [1352-product-of-the-last-k-numbers](https://github.com/abdelwahab-emad/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1390-four-divisors](https://github.com/abdelwahab-emad/LeetCode/tree/master/1390-four-divisors) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/abdelwahab-emad/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/abdelwahab-emad/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/abdelwahab-emad/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/abdelwahab-emad/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/abdelwahab-emad/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/abdelwahab-emad/LeetCode/tree/master/1732-find-the-highest-altitude) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/abdelwahab-emad/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0788-rotated-digits](https://github.com/abdelwahab-emad/LeetCode/tree/master/0788-rotated-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/abdelwahab-emad/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1352-product-of-the-last-k-numbers](https://github.com/abdelwahab-emad/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1390-four-divisors](https://github.com/abdelwahab-emad/LeetCode/tree/master/1390-four-divisors) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/abdelwahab-emad/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/abdelwahab-emad/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -496,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/abdelwahab-emad/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [2069-walking-robot-simulation-ii](https://github.com/abdelwahab-emad/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 ## Union-Find
 |  |
@@ -568,4 +572,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/abdelwahab-emad/LeetCode/tree/master/0022-generate-parentheses) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/abdelwahab-emad/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
